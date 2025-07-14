@@ -76,6 +76,7 @@ const config = {
     app("brasilapi"),
     app("readwise"),
     app("rd-station-marketing"),
+    app("instagram-mcp"),
     app("website"),
     app("commerce"),
     app("workflows"),
